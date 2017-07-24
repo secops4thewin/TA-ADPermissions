@@ -1,0 +1,15 @@
+Author: Mickey Perre
+Github Repo: https://github.com/secops4thewin
+
+Report all problems to above mentioned github repo.
+
+#Tested on Following Operating Systems
+Server 2012 R2 Standard
+
+#Installation Instructions
+This app needs to be installed on the following machine types 
+Splunk Search Heads - For search time extractions
+Splunk Indexers - For date time parsing and event breaking
+Domain Controllers - This app needs to be installed on only one Domain Controller in each domain.  Run the script manually to ensure that it runs outside of Splunk.
+
+

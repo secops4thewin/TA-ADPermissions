@@ -1,0 +1,57 @@
+rights_guid,description,cn,display_name
+ee914b82-0a98-11d1-adbb-00c04fd8d5cd,Extended right needed to cancel a replication sync.,Abandon-Replication,Abandon Replication
+440820ad-65b4-11d1-a3da-0000f875ae0d,Extended right needed at the NC root to add an object with a specific GUID.,Add-GUID,Add GUID
+1abd7cf8-0a99-11d1-adbb-00c04fd8d5cd,Extended right needed to request rid pool.,Allocate-Rids,Allocate Rids
+68b1d179-0d15-4d4f-ab71-46152e79a7bc,The control access right controls who can authenticate to a particular computer or service. It basically lives on computer; user; and InetOrgPerson objects. It is also applicable on the domain object if access is allowed for the entire domain. It can be applied to OUs to permit users to be able to set inheritable ACEs on OUs that contain a set of user or computer objects.,Allowed-To-Authenticate,Allowed to Authenticate
+edacfd8f-ffb3-11d1-b41d-00a0c968f939,Extended right used by Group Policy engine to determine whether a GPO applies to a user or computer.,Apply-Group-Policy,Apply Group Policy
+0e10c968-78fb-11d2-90d4-00c04f79dc55,Extended right needed to cause certificate enrollment.,Certificate-Enrollment,Enroll
+014bf69c-7b3b-11d1-85f6-08002be74fab,Extended right needed to change the domain naming FSMO role owner.,Change-Domain-Master,Change Domain Master
+cc17b1fb-33d9-11d2-97d4-00c04fd8d5cd,Extended right needed to change the infrastructure FSMO role owner.,Change-Infrastructure-Master,Change Infrastructure Master
+bae50096-4752-11d1-9052-00c04fc2d4cf,Extended right needed to change the primary domain controller (PDC) emulator FSMO role owner.,Change-PDC,Change PDC
+d58d5f36-0a98-11d1-adbb-00c04fd8d5cd,Extended right needed to change the relative identifier (RID) master FSMO role owner.,Change-Rid-Master,Change Rid Master
+e12b56b6-0a95-11d1-adbb-00c04fd8d5cd,Extended right needed to change the schema master FSMO role owner.,Change-Schema-Master,Change Schema Master
+e2a36dc9-ae17-47c3-b58b-be34c55ba633,Extended control access right that enables users to create an inbound-only trust between forests by adding them to the appropriate group.,Create-Inbound-Forest-Trust,Create Inbound Forest Trust
+fec364e0-0a98-11d1-adbb-00c04fd8d5cd,Extended right to force the Directory Service to do garbage collection. Control right to force the Directory Service to do garbage collection.,Do-Garbage-Collection,Do Garbage Collection
+ab721a52-1e2f-11d0-9819-00aa0040529b,Legacy SAM right.,Domain-Administer-Server,Domain Administer Server
+69ae6200-7f46-11d2-b9ad-00c04f79f805,Extended right needed to force DS to check stale phantom objects.,DS-Check-Stale-Phantoms,Check Stale Phantoms
+3e0f7e18-2c7a-4c10-ba82-4d926db99a3e,Allow a DC to create a clone of itself.,DS-Clone-Domain-Controller,Allow a DC to create a clone of itself
+2f16c4a5-b98e-432c-952a-cb388ba33f2e,Control access right; which should be granted to the partitions container; that allows the Rendom.exe or prepare operation to be used in a domain rename.  This control access right also appears as an audit-only right when the Rendom.exe or execute step operation is performed.,DS-Execute-Intentions-Script,Execute Forest Update Script
+9923a32a-3607-11d2-b9be-0000f87a36b2,Extended right needed to do a replica install.,DS-Install-Replica,Add/Remove Replica In Domain
+4ecc03fe-ffc0-4947-b630-eb672a8a9dbc,Control access right that allows a user to query the user's own quotas.,DS-Query-Self-Quota,Query Self Quota
+1131f6aa-9c07-11d1-f79f-00c04fc2dcd2,Extended right needed to replicate changes from a given NC.,DS-Replication-Get-Changes,Replicating Directory Changes
+1131f6ad-9c07-11d1-f79f-00c04fc2dcd2,Control access right that allows the replication of secret domain data.,DS-Replication-Get-Changes-All,Replicating Directory Changes All
+89e95b76-444d-4c62-991a-0facbeda640c,Extended right needed to replicate changes from a given NC.,DS-Replication-Get-Changes-In-Filtered-Set,Replicating Directory Changes In Filtered Set
+1131f6ac-9c07-11d1-f79f-00c04fc2dcd2,Extended right needed to update the replication topology for a given NC.,DS-Replication-Manage-Topology,Manage Replication Topology
+f98340fb-7c5b-4cdb-a00b-2ebdfa115a96,Extended control access right that allows the reading of replication monitoring data; such as replication status and object metadata.,DS-Replication-Monitor-Topology,Monitor Active Directory Replication
+1131f6ab-9c07-11d1-f79f-00c04fc2dcd2,Extended right needed to synchronize replication from a given NC.,DS-Replication-Synchronize,Replication Synchronization
+05c74c5e-4deb-43b4-bd9f-86664c2a7fd5,"Extended control access right that allows users to enable or disable the ""reversible encrypted password"" setting for user and computer objects.",Enable-Per-User-Reversibly-Encrypted-Password,Enable Per User Reversibly Encrypted Password
+b7b1b3de-ab09-4242-9e30-9980e5d322f7,The user who has the rights on an OU or Domain will be able to generate logging mode RSoP data for the users or computers within the OU.,Generate-RSoP-Logging,Generate Resultant Set of Policy (Logging)
+b7b1b3dd-ab09-4242-9e30-9980e5d322f7,The user who has the rights on an OU or Domain will be able to generate planning mode RSoP data for the users or computers within the OU.,Generate-RSoP-Planning,Generate Resultant Set of Policy (Planning)
+7c0e2a7c-a419-48e4-a995-10180aad54dd,Manage optional features for Active Directory.,Manage-Optional-Features,Manage Optional Features for Active Directory
+ba33815a-4f93-4c76-87f3-57574bff8109,Extended right that enables a user to migrate the SID-History without administrator privileges.,Migrate-SID-History,Migrate SID History
+b4e60130-df3f-11d1-9c86-006008764d0e,Allows to open connector queue.,msmq-Open-Connector,Open Connector Queue
+06bd3201-df3e-11d1-9c86-006008764d0e,Allows peeking at messages in the queue.,msmq-Peek,Peek Message
+4b6e08c3-df3c-11d1-9c86-006008764d0e,Allows peeking at messages in the Computer Journal queue.,msmq-Peek-computer-Journal,Peek Computer Journal
+4b6e08c1-df3c-11d1-9c86-006008764d0e,Allows peeking at messages in the Dead Letter queue.,msmq-Peek-Dead-Letter,Peek Dead Letter
+06bd3200-df3e-11d1-9c86-006008764d0e,Allows receiving messages from the queue.,msmq-Receive,Receive Message
+4b6e08c2-df3c-11d1-9c86-006008764d0e,Allows receiving messages from the Computer Journal queue.,msmq-Receive-computer-Journal,Receive Computer Journal
+4b6e08c0-df3c-11d1-9c86-006008764d0e,Allows receiving messages from the Dead Letter queue.,msmq-Receive-Dead-Letter,Receive Dead Letter
+06bd3203-df3e-11d1-9c86-006008764d0e,Allows receiving messages from the queue's Journal.,msmq-Receive-journal,Receive Journal
+06bd3202-df3e-11d1-9c86-006008764d0e,Allows sending messages to the queue.,msmq-Send,Send Message
+a1990816-4298-11d1-ade2-00c04fd8d5cd,Extended right checked when opening address book object for address book views.,Open-Address-Book,Open Address List
+1131f6ae-9c07-11d1-f79f-00c04fc2dcd2,This object is present in AD DS only.,Read-Only-Replication-Secret-Synchronization,Read Only Replication Secret Synchronization
+45ec5156-db7e-47bb-b53f-dbeb2d03c40f,Control access right that allows deleted schema elements to be restored.,Reanimate-Tombstones,Reanimate Tombstones
+0bc1554e-0a99-11d1-adbb-00c04fd8d5cd,Extended right to force the DS to recalculate the hierarchy.,Recalculate-Hierarchy,Recalculate Hierarchy
+62dd28a8-7f46-11d2-b9ad-00c04f79f805,Extended right needed to force DS to recompute ACL inheritance on a Naming Context.,Recalculate-Security-Inheritance,Recalculate Security Inheritance
+ab721a56-1e2f-11d0-9819-00aa0040529b,Exchange right: allows receiving mail as a given mailbox.,Receive-As,Receive As
+9432c620-033c-4db7-8b58-14ef6d0bf477,This is for no GC logon. No GC logon relies on caching group memberships; and this control access right is used to grant administrators and operators permission rights to cause an immediate refresh of the cache; contacting an available GC.,Refresh-Group-Cache,Refresh Group Cache for Logons
+1a60ea8d-58a6-4b20-bcdc-fb71eb8a9ff8,Not Documented,Reload-SSL-Certificate,Reload SSL/TLS Certificate
+7726b9d5-a4b4-4288-a6b2-dce952e80a7f,Control access rights authorizing rootDSE modification operations on a PDC FSMO for triggering the AdminSDHolder protection operation.,Run-Protect-Admin-Groups-Task,Run Protect Admin Groups Task
+91d67418-0135-4acc-8d79-c08e857cfbec,This control access right can be used to restrict who can be allowed to use a downlevel API; such as NetQueryDisplayInformation and NetUser/GroupEnum; and enumerate the entire domain.,SAM-Enumerate-Entire-Domain,Enumerate Entire SAM Domain
+ab721a54-1e2f-11d0-9819-00aa0040529b,Exchange right: allows sending mail as the mailbox.,Send-As,Send As
+ab721a55-1e2f-11d0-9819-00aa0040529b,Exchange right: allows sending to a mailbox.,Send-To,Send To
+ccc2dc7d-a6ad-4a7a-8846-c04e3cc53501,Extended control access right that allows a user to restore an expired password for a user object.,Unexpire-Password,Unexpire Password
+280f369c-67c7-438e-ae98-1d46f3c6f541,"Extended control access right that allows a user to enable or disable the ""password not required"" setting for user objects.",Update-Password-Not-Required-Bit,Update Password Not Required Bit
+be2bb760-7f46-11d2-b9ad-00c04f79f805,Extended right to force a schema cache update.,Update-Schema-Cache,Update Schema Cache
+ab721a53-1e2f-11d0-9819-00aa0040529b,Permits changing password on user account.,User-Change-Password,Change Password
+00299570-246d-11d0-a768-00aa006e0529,Permits resetting a password on a user account.,User-Force-Change-Password,Reset Password
