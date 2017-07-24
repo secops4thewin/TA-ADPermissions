@@ -115,7 +115,7 @@ Attributes,Lists attributes and their guids,ACS-Policy-Name,String name of an AC
 Attributes,Lists attributes and their guids,ACS-Priority,Relative priority of a flow for this user.,7f561281-5301-11d1-a9c5-0000f80367c1
 Attributes,Lists attributes and their guids,ACS-RSVP-Account-Files-Location,"The directory location of RSVP account files. Defaults to the ""system32"" subdirectory located in the default system directory.",f072230f-aef5-11d1-bdcf-0000f80367c1
 Attributes,Lists attributes and their guids,ACS-RSVP-Log-Files-Location,The file system path for storage of RSVP log files.,1cb3559b-56d0-11d1-a9c6-0000f80367c1
-Attributes,Lists attributes and their guids,ACS-Server-List,Contains the DNS names of WindowsÂ NT servers that are allowed to run ACS.,7cbd59a5-3b90-11d2-90cc-00c04fd91ab1
+Attributes,Lists attributes and their guids,ACS-Server-List,Contains the DNS names of WindowsåÊNT servers that are allowed to run ACS.,7cbd59a5-3b90-11d2-90cc-00c04fd91ab1
 Attributes,Lists attributes and their guids,ACS-Service-Type,The ACS service type. Controlled load or guaranteed bandwidth.,7f56127f-5301-11d1-a9c5-0000f80367c1
 Attributes,Lists attributes and their guids,ACS-Time-Of-Day,Times of day at which this policy applies.,7f561279-5301-11d1-a9c5-0000f80367c1
 Attributes,Lists attributes and their guids,ACS-Total-No-Of-Flows,The total number of flows that a given user may have.,7f561280-5301-11d1-a9c5-0000f80367c1
@@ -148,7 +148,7 @@ Attributes,Lists attributes and their guids,Asset-Number,The tracking number for
 Attributes,Lists attributes and their guids,Assistant,The distinguished name of a user's administrative assistant.,0296c11c-40da-11d1-a9c0-0000f80367c1
 Attributes,Lists attributes and their guids,associatedDomain,The associatedDomain attribute type specifies a DNS domain that is associated with an object.,3320fc38-c379-4c17-a510-1bdf6133c5da
 Attributes,Lists attributes and their guids,associatedName,The associatedName attribute type specifies an entry in the organizational DIT that is associated with a DNS domain.,f7fbfc45-85ab-42a4-a435-780e62f7858b
-Attributes,Lists attributes and their guids,Assoc-NT-Account,The WindowsÂ NT account that applies to this object.,398f63c0-ca60-11d1-bbd1-0000f81f10c0
+Attributes,Lists attributes and their guids,Assoc-NT-Account,The WindowsåÊNT account that applies to this object.,398f63c0-ca60-11d1-bbd1-0000f81f10c0
 Attributes,Lists attributes and their guids,attributeCertificateAttribute,A digitally signed or certified identity and set of attributes. Used to bind authorization information to an identity.,fa4693bb-7bc2-4cb9-81a8-c99c43b7905e
 Attributes,Lists attributes and their guids,Attribute-Display-Names,The name to be displayed for this object.,cb843f80-48d9-11d1-a9c3-0000f80367c1
 Attributes,Lists attributes and their guids,Attribute-ID,The unique X.500 OID for identifying an attribute.,bf967922-0de6-11d0-a285-00aa003049e2
@@ -168,8 +168,8 @@ Attributes,Lists attributes and their guids,bootParameter,Provides data that is 
 Attributes,Lists attributes and their guids,Bridgehead-Server-List-BL,The list of servers that are bridgeheads for replication.,d50c2cdb-8951-11d1-aebc-0000f80367c1
 Attributes,Lists attributes and their guids,Bridgehead-Transport-List,Transports for which this server is a bridgehead.,d50c2cda-8951-11d1-aebc-0000f80367c1
 Attributes,Lists attributes and their guids,buildingName,The name of the building where an organization or organizational unit is based.,f87fa54b-b2c5-4fd7-88c0-daccb21d93c5
-Attributes,Lists attributes and their guids,Builtin-Creation-Time,The Builtin-Creation-Time attribute is used to support replication to WindowsÂ NTÂ 4.0 domains.,bf96792f-0de6-11d0-a285-00aa003049e2
-Attributes,Lists attributes and their guids,Builtin-Modified-Count,The Builtin-Modified-Count attribute is used to support replication to WindowsÂ NTÂ 4.0 domains.,bf967930-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Builtin-Creation-Time,The Builtin-Creation-Time attribute is used to support replication to WindowsåÊNTåÊ4.0 domains.,bf96792f-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Builtin-Modified-Count,The Builtin-Modified-Count attribute is used to support replication to WindowsåÊNTåÊ4.0 domains.,bf967930-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Business-Category,Descriptive text on an Organizational Unit.,bf967931-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Bytes-Per-Minute,Printer data transfer rate.,ba305f76-47e3-11d0-a1a6-00c04fd930c9
 Attributes,Lists attributes and their guids,CA-Certificate,Certificates of trusted Certification Authorities.,bf967932-0de6-11d0-a285-00aa003049e2
@@ -187,7 +187,7 @@ Attributes,Lists attributes and their guids,Certificate-Authority-Object,Referen
 Attributes,Lists attributes and their guids,Certificate-Revocation-List,Represents a list of certificates that have been revoked.,1677579f-47f3-11d1-a9c3-0000f80367c1
 Attributes,Lists attributes and their guids,Certificate-Templates,Contains information for a certificate issued by a Certificate Server.,2a39c5b1-8960-11d1-aebc-0000f80367c1
 Attributes,Lists attributes and their guids,Class-Display-Name,The object name to be displayed in dialog boxes.,548e1c22-dea6-11d0-b010-0000f80367c1
-Attributes,Lists attributes and their guids,Code-Page,Specifies the code page for the user's language of choice. This value is not used by WindowsÂ 2000.,bf967938-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Code-Page,Specifies the code page for the user's language of choice. This value is not used by WindowsåÊ2000.,bf967938-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,COM-ClassID,This attribute stores the list of ClassIDs that are implemented in this application package.,bf96793b-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,COM-CLSID,This attribute contains the GUID that is associated to this object class.,281416d9-1968-11d0-a28f-00aa003049e2
 Attributes,Lists attributes and their guids,COM-InterfaceID,This attribute stores the list of interfaces that are implemented in this application package.,bf96793c-0de6-11d0-a285-00aa003049e2
@@ -203,7 +203,7 @@ Attributes,Lists attributes and their guids,Content-Indexing-Allowed,Indicates w
 Attributes,Lists attributes and their guids,Context-Menu,The order number and GUID of the context menu to be used for an object.,4d8601ee-ac85-11d0-afe3-00c04fd930c9
 Attributes,Lists attributes and their guids,Control-Access-Rights,Used by DS Security to determine which users can perform specific operations on the host object.,6da8a4fc-0e52-11d0-a286-00aa003049e2
 Attributes,Lists attributes and their guids,Cost,Contains the relative cost for routing messages through a particular site connector.,bf967944-0de6-11d0-a285-00aa003049e2
-Attributes,Lists attributes and their guids,Country-Code,Specifies the country/region code for the user's language of choice. This value is not used by WindowsÂ 2000.,5fd42471-1262-11d0-a060-00aa006c33ed
+Attributes,Lists attributes and their guids,Country-Code,Specifies the country/region code for the user's language of choice. This value is not used by WindowsåÊ2000.,5fd42471-1262-11d0-a060-00aa006c33ed
 Attributes,Lists attributes and their guids,Country-Name,The country/region in the address of the user. The country/region is represented as a 2-character code based on ISO-3166.,bf967945-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Create-Dialog,GUID of dialog box for creating associated object.,2b09958a-8931-11d1-aebc-0000f80367c1
 Attributes,Lists attributes and their guids,Create-Time-Stamp,The date when this object was created. This value is  replicated.,2df90d73-009f-11d2-aa4c-00c04fd7d83a
@@ -212,7 +212,7 @@ Attributes,Lists attributes and their guids,Creation-Time,The date and time that
 Attributes,Lists attributes and their guids,Creation-Wizard,Wizard to activate when creating objects of this class.,4d8601ed-ac85-11d0-afe3-00c04fd930c9
 Attributes,Lists attributes and their guids,Creator,The person that created the object.,7bfdcb85-4807-11d1-a9c3-0000f80367c1
 Attributes,Lists attributes and their guids,CRL-Object,Reference to certificate revocation list object associated with a certification authority.,963d2737-48be-11d1-a9c3-0000f80367c1
-Attributes,Lists attributes and their guids,CRL-Partitioned-Revocation-List,Public Key Infrastructureâ€“revocation lists.,963d2731-48be-11d1-a9c3-0000f80367c1
+Attributes,Lists attributes and their guids,CRL-Partitioned-Revocation-List,Public Key Infrastructure‰ÛÒrevocation lists.,963d2731-48be-11d1-a9c3-0000f80367c1
 Attributes,Lists attributes and their guids,Cross-Certificate-Pair,V3 Cross Certificate.,167757b2-47f3-11d1-a9c3-0000f80367c1
 Attributes,Lists attributes and their guids,Current-Location,The computer location for an object that has moved.,1f0075fc-7e40-11d0-afd6-00c04fd930c9
 Attributes,Lists attributes and their guids,Current-Parent-CA,Reference to the certification authorities that issued the current certificates for a certification authority.,963d273f-48be-11d1-a9c3-0000f80367c1
@@ -279,7 +279,7 @@ Attributes,Lists attributes and their guids,Domain-ID,Reference to a domain that
 Attributes,Lists attributes and their guids,Domain-Identifier,Domain Sid that identifies the domain.,7f561278-5301-11d1-a9c5-0000f80367c1
 Attributes,Lists attributes and their guids,Domain-Policy-Object,Reference to the policy object that defines the Local Security Authority policy for the host domain.,bf96795d-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Domain-Policy-Reference,The Distinguished Name of a domain policy object that a policy object copies from.,80a67e2a-9f22-11d0-afdd-00c04fd930c9
-Attributes,Lists attributes and their guids,Domain-Replica,Unicode String Attribute; gives the list of WindowsÂ NTÂ 4.0 Replication Domain Controllers.,bf96795e-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Domain-Replica,Unicode String Attribute; gives the list of WindowsåÊNTåÊ4.0 Replication Domain Controllers.,bf96795e-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Domain-Wide-Policy,This is for user extensible policy to be replicated to the clients.,80a67e29-9f22-11d0-afdd-00c04fd930c9
 Attributes,Lists attributes and their guids,drink,The drink (Favorite Drink) attribute type specifies the favorite drink of an object (or person).,1a1aa5b5-262e-4df6-af04-2cf6b0d80048
 Attributes,Lists attributes and their guids,Driver-Name,The device driver name.,281416c5-1968-11d0-a28f-00aa003049e2
@@ -304,11 +304,11 @@ Attributes,Lists attributes and their guids,Extended-Attribute-Info,A multi-valu
 Attributes,Lists attributes and their guids,Extended-Chars-Allowed,Indicates whether extended characters are allowed in the value of this attribute.  Only applies to IA5; Numeric; Printable; and Teletex string attributes.,bf967966-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Extended-Class-Info,A multi-valued property that contains strings that represent additional information for each class. Each value contains the governsID; lDAPDisplayName; and schemaIDGUID of the class.,9a7ad948-ca53-11d1-bbd0-0080c76670c0
 Attributes,Lists attributes and their guids,Extension-Name,The name of a property page used to extend the UI of a directory object.,bf967972-0de6-11d0-a285-00aa003049e2
-Attributes,Lists attributes and their guids,Extra-Columns,This is a multivalued attribute whose values consist of a 5 tuple: (attribute name); (column title); (default visibility (0;1)); (column width (â€“1 for auto width)); 0 (reserved for future use must be zero).  This value is used by the AD Users and Computers console.,d24e2846-1dd9-4bcf-99d7-a6227cc86da7
+Attributes,Lists attributes and their guids,Extra-Columns,This is a multivalued attribute whose values consist of a 5 tuple: (attribute name); (column title); (default visibility (0;1)); (column width (‰ÛÒ1 for auto width)); 0 (reserved for future use must be zero).  This value is used by the AD Users and Computers console.,d24e2846-1dd9-4bcf-99d7-a6227cc86da7
 Attributes,Lists attributes and their guids,Facsimile-Telephone-Number,Contains telephone number of the user's business fax machine.,bf967974-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,File-Ext-Priority,This attribute contains a list of file name extensions in an application package and their associated priorities.,d9e18315-8939-11d1-aebc-0000f80367c1
 Attributes,Lists attributes and their guids,Flags,To be used by the object to store bit information.,bf967976-0de6-11d0-a285-00aa003049e2
-Attributes,Lists attributes and their guids,Flat-Name,For WindowsÂ NT domains; the flat name is the NetBIOS name. For links with nonâ€“WindowsÂ NT domains; the flat name is the identifying name of that domain; or it is NULL.,b7b13117-b82e-11d0-afee-0000f80367c1
+Attributes,Lists attributes and their guids,Flat-Name,For WindowsåÊNT domains; the flat name is the NetBIOS name. For links with non‰ÛÒWindowsåÊNT domains; the flat name is the identifying name of that domain; or it is NULL.,b7b13117-b82e-11d0-afee-0000f80367c1
 Attributes,Lists attributes and their guids,Force-Logoff,Used in computing the kick off time in SamIGetAccountRestrictions.  Logoff time minus Force Log off equals kick off time.,bf967977-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Foreign-Identifier,The security properties used by a foreign system.,3e97891e-8c01-11d0-afda-00c04fd930c9
 Attributes,Lists attributes and their guids,Friendly-Names,List of default display name definitions supported by a catalog.,7bfdcb88-4807-11d1-a9c3-0000f80367c1
@@ -361,7 +361,7 @@ Attributes,Lists attributes and their guids,GPC-WQL-Filter,Used to store a strin
 Attributes,Lists attributes and their guids,GP-Link,A sorted list of Group Policy options.  Each option is a DWORD.  Use of the UNICODE string is a convenience.,f30e3bbe-9ff0-11d1-b603-0000f80367c1
 Attributes,Lists attributes and their guids,GP-Options,Options that affect all group policies associated with the object hosting this property.,f30e3bbf-9ff0-11d1-b603-0000f80367c1
 Attributes,Lists attributes and their guids,Group-Attributes,The Group-Attributes attribute is not currently used.,bf96797e-0de6-11d0-a285-00aa003049e2
-Attributes,Lists attributes and their guids,Group-Membership-SAM,WindowsÂ NT Security. Down level WindowsÂ NT support.,bf967980-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Group-Membership-SAM,WindowsåÊNT Security. Down level WindowsåÊNT support.,bf967980-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Group-Priority,The Group-Priority attribute is not currently used.,eea65905-8ac6-11d0-afda-00c04fd930c9
 Attributes,Lists attributes and their guids,Groups-to-Ignore,The Groups-to-Ignore attribute is not currently used.,eea65904-8ac6-11d0-afda-00c04fd930c9
 Attributes,Lists attributes and their guids,Group-Type,Contains a set of flags that define the type and scope of a group object.  For the possible values for this attribute; see Remarks.,9a9a021e-4a5b-11d1-a9c3-0000f80367c1
@@ -433,7 +433,7 @@ Attributes,Lists attributes and their guids,LDAP-IPDeny-List,Holds a list of bin
 Attributes,Lists attributes and their guids,Legacy-Exchange-DN,The distinguished name previously used by Exchange.,28630ebc-41d5-11d1-a9c1-0000f80367c1
 Attributes,Lists attributes and their guids,Link-ID,An integer that indicates that the attribute is a linked attribute. An even integer is a forward link and an odd integer is a backward link.,bf96799b-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Link-Track-Secret,This attribute stores a link to a secret key that allows an encrypted file to be translated to plaintext.,2ae80fe2-47b4-11d0-a1a4-00c04fd930c9
-Attributes,Lists attributes and their guids,Lm-Pwd-History,The password history of the user in LAN Manager (LM) one-way format (OWF). The LM OWF is used for compatibility with LAN Manager 2.x clients; WindowsÂ 95; and WindowsÂ 98.,bf96799d-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Lm-Pwd-History,The password history of the user in LAN Manager (LM) one-way format (OWF). The LM OWF is used for compatibility with LAN Manager 2.x clients; WindowsåÊ95; and WindowsåÊ98.,bf96799d-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Locale-ID,This attribute contains a list of locale IDs supported by this application. A locale ID represents a geographic location; such as a country/region; city; county; and so on.,bf9679a1-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Locality-Name,Represents the name of a locality; such as a town or city.,bf9679a2-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Localization-Display-Id,Used to index into the file Extrts.mc to get the localized displayName for the objects for UI purposes.,a746f0d1-78d0-11d2-9916-0000f87a57d4
@@ -450,8 +450,8 @@ Attributes,Lists attributes and their guids,Logo,BLOB that contains a logo for t
 Attributes,Lists attributes and their guids,Logon-Count,The number of times the account has successfully logged on. A value of 0 indicates that the value is unknown.,bf9679aa-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Logon-Hours,The hours that the user is allowed to logon to the domain.,bf9679ab-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Logon-Workstation,This attribute is not used. See the User-Workstations attribute.,bf9679ac-0de6-11d0-a285-00aa003049e2
-Attributes,Lists attributes and their guids,LSA-Creation-Time,The LSA-Creation-Time attribute is used to support replication to WindowsÂ NTÂ 4.0 domains.,bf9679ad-0de6-11d0-a285-00aa003049e2
-Attributes,Lists attributes and their guids,LSA-Modified-Count,The LSA-Modified-Count attribute is used to support replication to WindowsÂ NTÂ 4.0 domains.,bf9679ae-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,LSA-Creation-Time,The LSA-Creation-Time attribute is used to support replication to WindowsåÊNTåÊ4.0 domains.,bf9679ad-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,LSA-Modified-Count,The LSA-Modified-Count attribute is used to support replication to WindowsåÊNTåÊ4.0 domains.,bf9679ae-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,macAddress,Contains the MAC address in maximal; colon-separated hexadecimal notation.,e6a522dd-9770-43e1-89de-1de5044328f7
 Attributes,Lists attributes and their guids,Machine-Architecture,Contains a list of hardware processors supported by a given application.,bf9679af-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Machine-Password-Change-Interval,The Machine-Password-Change-Interval attribute is not currently used.,c9b6358e-bb38-11d0-afef-0000f80367c1
@@ -604,7 +604,7 @@ Attributes,Lists attributes and their guids,ms-DS-Allowed-To-Act-On-Behalf-Of-Ot
 Attributes,Lists attributes and their guids,ms-DS-Allowed-To-Delegate-To,This is an attribute on service account (computer or user account) objects. It contains a list of Service Principal Names (SPNs). This attribute is used to configure a service so that it can obtain service tickets that can be used for Constrained Delegation.,800d94d7-b7a1-42a1-b14d-7cae1423d07f
 Attributes,Lists attributes and their guids,MS-DS-All-Users-Trust-Quota,Used to enforce a combined users quota on the total number of Trusted-Domain objects created by using the new control access right; Create-Inbound-Forest-Trust.,d3aa4a5c-4e03-4810-97aa-2b339e7a434b
 Attributes,Lists attributes and their guids,ms-DS-Applies-To-Resource-Types,For a resource property; this attribute indicates what resource types this resource property applies to.,693f2006-5764-3d4a-8439-58f04aab4b59
-Attributes,Lists attributes and their guids,ms-DS-Approx-Immed-Subordinates,The value returned by this attribute is based on index sizes.  This may be off by +/â€“10% on large containers; and the error is theoretically unbounded; but using this attribute helps the UI display the contents of a container.,e185d243-f6ce-4adb-b496-b0c005d7823c
+Attributes,Lists attributes and their guids,ms-DS-Approx-Immed-Subordinates,The value returned by this attribute is based on index sizes.  This may be off by +/‰ÛÒ10% on large containers; and the error is theoretically unbounded; but using this attribute helps the UI display the contents of a container.,e185d243-f6ce-4adb-b496-b0c005d7823c
 Attributes,Lists attributes and their guids,ms-DS-AuthenticatedAt-DC,Forward link for ms-DS-AuthenticatedTo-Accountlist. Identifies which DC a user has authenticated to.,3e1ee99c-6604-4489-89d9-84798a89515a
 Attributes,Lists attributes and their guids,ms-DS-AuthenticatedTo-Accountlist,Backward link for ms-DS-AuthenticatedAt-DC. Identifies which users have authenticated to this Computer.,e8b2c971-a6df-47bc-8d6f-62770d527aa5
 Attributes,Lists attributes and their guids,ms-DS-Auxiliary-Classes,This attribute lists the auxiliary classes that have been dynamically attached to an object. This attribute is not associated with a class. It is automatically populated by the system.,c4af1073-ee50-4be0-b8c0-89a41fe99abe
@@ -890,7 +890,7 @@ Attributes,Lists attributes and their guids,MSMQ-Secured-Source,This is part of 
 Attributes,Lists attributes and their guids,MSMQ-Services,The type of service provided by MSMQ installed on this server.,9a0dc33d-c100-11d1-bbc5-0080c76670c0
 Attributes,Lists attributes and their guids,MSMQ-Service-Type,The type of service provided by MSMQ installed on this computer.,9a0dc32d-c100-11d1-bbc5-0080c76670c0
 Attributes,Lists attributes and their guids,MSMQ-Sign-Certificates,This attribute contains a number of certificates. A user can generate a certificate per computer.  For each certificate we also keep a digest.,9a0dc33b-c100-11d1-bbc5-0080c76670c0
-Attributes,Lists attributes and their guids,MSMQ-Sign-Certificates-Mig,In MSMQ mixed-mode; the attribute contains the previous value of mSMQSignCertificates. MSMQ supports migration from the MSMQ 1.0 DS to the WindowsÂ 2000 DS; and mixed mode specifies a state in which some of the DS severs were not upgraded to WindowsÂ 2000.,3881b8ea-da3b-11d1-90a5-00c04fd91ab1
+Attributes,Lists attributes and their guids,MSMQ-Sign-Certificates-Mig,In MSMQ mixed-mode; the attribute contains the previous value of mSMQSignCertificates. MSMQ supports migration from the MSMQ 1.0 DS to the WindowsåÊ2000 DS; and mixed mode specifies a state in which some of the DS severs were not upgraded to WindowsåÊ2000.,3881b8ea-da3b-11d1-90a5-00c04fd91ab1
 Attributes,Lists attributes and their guids,MSMQ-Sign-Key,The computer's public signing key.,9a0dc332-c100-11d1-bbc5-0080c76670c0
 Attributes,Lists attributes and their guids,MSMQ-Site-1,The DN of the first site of a pair that are connected.,9a0dc337-c100-11d1-bbc5-0080c76670c0
 Attributes,Lists attributes and their guids,MSMQ-Site-2,The DN of the second site of a pair that are connected.,9a0dc338-c100-11d1-bbc5-0080c76670c0
@@ -1129,7 +1129,7 @@ Attributes,Lists attributes and their guids,Netboot-Initialization,Default boot 
 Attributes,Lists attributes and their guids,netboot-IntelliMirror-OSes,The netboot-IntelliMirror-OSes attribute is reserved for internal use.,0738307e-91df-11d1-aebc-0000f80367c1
 Attributes,Lists attributes and their guids,netboot-Limit-Clients,The netboot-Limit-Clients attribute is reserved for internal use.,07383077-91df-11d1-aebc-0000f80367c1
 Attributes,Lists attributes and their guids,netboot-Locally-Installed-OSes,The netboot-Locally-Installed-OSes attribute is reserved for internal use.,07383080-91df-11d1-aebc-0000f80367c1
-Attributes,Lists attributes and their guids,Netboot-Machine-File-Path,This attribute specifies the server that answers the client. Beginning with the Windows ServerÂ 2003 operating system; it can indicate the Startrom.com that the client gets.,3e978923-8c01-11d0-afda-00c04fd930c9
+Attributes,Lists attributes and their guids,Netboot-Machine-File-Path,This attribute specifies the server that answers the client. Beginning with the Windows ServeråÊ2003 operating system; it can indicate the Startrom.com that the client gets.,3e978923-8c01-11d0-afda-00c04fd930c9
 Attributes,Lists attributes and their guids,netboot-Max-Clients,The netboot-Max-Clients attribute is reserved for internal use.,07383078-91df-11d1-aebc-0000f80367c1
 Attributes,Lists attributes and their guids,Netboot-Mirror-Data-File,The Netboot-Mirror-Data-File attribute is reserved for internal use.,2df90d85-009f-11d2-aa4c-00c04fd7d83a
 Attributes,Lists attributes and their guids,netboot-New-Machine-Naming-Policy,Indicates the naming scheme which new client computer accounts will use.,0738307c-91df-11d1-aebc-0000f80367c1
@@ -1149,8 +1149,8 @@ Attributes,Lists attributes and their guids,Non-Security-Member-BL,List of nonse
 Attributes,Lists attributes and their guids,Notification-List,The Notification-List attribute is not currently used.,19195a56-6da0-11d0-afd3-00c04fd930c9
 Attributes,Lists attributes and their guids,NT-Group-Members,This attribute is not used.,bf9679df-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,NT-Mixed-Domain,Indicates that the domain is in native mode or mixed mode. This attribute is found in the domainDNS (head) object for the domain.,3e97891f-8c01-11d0-afda-00c04fd930c9
-Attributes,Lists attributes and their guids,Nt-Pwd-History,The password history of the user in WindowsÂ NT one-way format (OWF). WindowsÂ 2000 uses the WindowsÂ NT OWF.,bf9679e2-0de6-11d0-a285-00aa003049e2
-Attributes,Lists attributes and their guids,NT-Security-Descriptor,The WindowsÂ NT security descriptor for the schema object. A security descriptor is a data structure that contains security information about an object; such as the ownership and permissions of the object.,bf9679e3-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Nt-Pwd-History,The password history of the user in WindowsåÊNT one-way format (OWF). WindowsåÊ2000 uses the WindowsåÊNT OWF.,bf9679e2-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,NT-Security-Descriptor,The WindowsåÊNT security descriptor for the schema object. A security descriptor is a data structure that contains security information about an object; such as the ownership and permissions of the object.,bf9679e3-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Obj-Dist-Name,Same as the Distinguished Name for an object. Used by Exchange.,bf9679e4-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Object-Category,An object class name used to group objects of this or derived classes.,26d97369-6070-11d1-a9c6-0000f80367c1
 Attributes,Lists attributes and their guids,Object-Class,The list of classes from which this class is derived.,bf9679e5-0de6-11d0-a285-00aa003049e2
@@ -1166,7 +1166,7 @@ Attributes,Lists attributes and their guids,OM-Syntax,A number that represents t
 Attributes,Lists attributes and their guids,OMT-Guid,The unique identifier for a Link-Track-Object-Move table entry.,ddac0cf3-af8f-11d0-afeb-00c04fd930c9
 Attributes,Lists attributes and their guids,OMT-Indx-Guid,The index identifier for a Link-Track-Object-Move table entry.,1f0075fa-7e40-11d0-afd6-00c04fd930c9
 Attributes,Lists attributes and their guids,oncRpcNumber,Contains part of the RPC map and stores the RPC number for UNIX RPCs.,966825f5-01d9-4a5c-a011-d15ae84efa55
-Attributes,Lists attributes and their guids,Operating-System,The Operating System name; for example; WindowsÂ Vista Enterprise.,3e978925-8c01-11d0-afda-00c04fd930c9
+Attributes,Lists attributes and their guids,Operating-System,The Operating System name; for example; WindowsåÊVista Enterprise.,3e978925-8c01-11d0-afda-00c04fd930c9
 Attributes,Lists attributes and their guids,Operating-System-Hotfix,The hotfix level of the operating system.,bd951b3c-9c96-11d0-afdd-00c04fd930c9
 Attributes,Lists attributes and their guids,Operating-System-Service-Pack,The operating system service pack ID string (for example; SP3).,3e978927-8c01-11d0-afda-00c04fd930c9
 Attributes,Lists attributes and their guids,Operating-System-Version,The operating system version string; for example; 4.0.,3e978926-8c01-11d0-afda-00c04fd930c9
@@ -1179,7 +1179,7 @@ Attributes,Lists attributes and their guids,Organizational-Unit-Name,The name of
 Attributes,Lists attributes and their guids,Organization-Name,The name of the company or organization.,bf9679ef-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Original-Display-Table,The MAPI (original) display table for an address entry.,5fd424ce-1262-11d0-a060-00aa006c33ed
 Attributes,Lists attributes and their guids,Original-Display-Table-MSDOS,The MAPI (original) display table for an MSDOS address entry.,5fd424cf-1262-11d0-a060-00aa006c33ed
-Attributes,Lists attributes and their guids,Other-Login-Workstations,Nonâ€“WindowsÂ NT or LAN Manager workstations from which a user can log on.,bf9679f1-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Other-Login-Workstations,Non‰ÛÒWindowsåÊNT or LAN Manager workstations from which a user can log on.,bf9679f1-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Other-Mailbox,Contains other additional mail addresses in a form such as CCMAIL: BruceKeever.,0296c123-40da-11d1-a9c0-0000f80367c1
 Attributes,Lists attributes and their guids,Other-Name,Additional names for a user. For example; middle name;  patronymic; matronymic; or others.,bf9679f2-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Other-Well-Known-Objects,Contains a list of containers by GUID and Distinguished Name. This permits retrieving an object after it has been moved by using just the GUID and the domain name. Whenever the object is moved; the system automatically updates the Distinguished Name.,1ea64e5d-ac0f-11d2-90df-00c04fd91ab1
@@ -1280,9 +1280,9 @@ Attributes,Lists attributes and their guids,Prior-Set-Time,The previous time set
 Attributes,Lists attributes and their guids,Prior-Value,The previous value for a secret.,bf967a02-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Private-Key,An encrypted private key.,bf967a03-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Privilege-Attributes,Bitmask of privilege attributes.,19405b9a-3cfa-11d1-a9c0-0000f80367c1
-Attributes,Lists attributes and their guids,Privilege-Display-Name,Display name for a WindowsÂ NT privilege.,19405b98-3cfa-11d1-a9c0-0000f80367c1
+Attributes,Lists attributes and their guids,Privilege-Display-Name,Display name for a WindowsåÊNT privilege.,19405b98-3cfa-11d1-a9c0-0000f80367c1
 Attributes,Lists attributes and their guids,Privilege-Holder,List of Distinguished Names of principals granted this privilege.,19405b9b-3cfa-11d1-a9c0-0000f80367c1
-Attributes,Lists attributes and their guids,Privilege-Value,A value that represents an WindowsÂ NT privilege.,19405b99-3cfa-11d1-a9c0-0000f80367c1
+Attributes,Lists attributes and their guids,Privilege-Value,A value that represents an WindowsåÊNT privilege.,19405b99-3cfa-11d1-a9c0-0000f80367c1
 Attributes,Lists attributes and their guids,Product-Code,"This attribute contains a unique identifier for an application for a particular product release; represented as a string GUID; for example ""{12345678-1234-1234-1234-123456789012}"". Letters used in this GUID must be uppercase. This ID must vary for different versions and languages.",d9e18317-8939-11d1-aebc-0000f80367c1
 Attributes,Lists attributes and their guids,Profile-Path,Specifies a path to the user's profile. This value can be a null string; a local absolute path; or a UNC path.,bf967a05-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Proxied-Object-Name,This attribute is used internally by Active Directory to help track interdomain moves.,e1aea402-cd5b-11d0-afff-0000f80367c1
@@ -1341,10 +1341,10 @@ Attributes,Lists attributes and their guids,rpc-Ns-Object-ID,The Object IDs expo
 Attributes,Lists attributes and their guids,rpc-Ns-Priority,The priority of a given RPC profile entry.,bf967a27-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,rpc-Ns-Profile-Entry,The list of entries for the current priority.,bf967a28-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,rpc-Ns-Transfer-Syntax,The UUID of the transfer syntax supported by the current entry.,29401c4a-7a27-11d0-afd6-00c04fd930c9
-Attributes,Lists attributes and their guids,SAM-Account-Name,The logon name used to support clients and servers running earlier versions of the operating system; such as WindowsÂ NTÂ 4.0; WindowsÂ 95; WindowsÂ 98; and LAN Manager.,3e0abfd0-126a-11d0-a060-00aa006c33ed
+Attributes,Lists attributes and their guids,SAM-Account-Name,The logon name used to support clients and servers running earlier versions of the operating system; such as WindowsåÊNTåÊ4.0; WindowsåÊ95; WindowsåÊ98; and LAN Manager.,3e0abfd0-126a-11d0-a060-00aa006c33ed
 Attributes,Lists attributes and their guids,SAM-Account-Type,This attribute contains information about every account type object. You can enumerate a list of account types or you can use the Display Information API to create a list.  Because computers; normal user accounts; and trust accounts can also be enumerated as user objects; the values for these accounts must be a contiguous range.,6e7b626c-64f2-11d0-afd2-00c04fd930c9
 Attributes,Lists attributes and their guids,SAM-Domain-Updates,Contains a bitmask of performed SAM operations on Active Directory.,04d2d114-f799-4e9b-bcdc-90e8f5ba7ebe
-Attributes,Lists attributes and their guids,Schedule,A schedule BLOB as defined by the WindowsÂ NT Job Service. Used by replication.,dd712224-10e4-11d0-a05f-00aa006c33ed
+Attributes,Lists attributes and their guids,Schedule,A schedule BLOB as defined by the WindowsåÊNT Job Service. Used by replication.,dd712224-10e4-11d0-a05f-00aa006c33ed
 Attributes,Lists attributes and their guids,Schema-Flags-Ex,The Schema-Flags-Ex attribute is not currently used.,bf967a2b-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Schema-ID-GUID,The unique identifier for an attribute.,bf967923-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Schema-Info,An internal binary value used to detect schema changes between DCs and force a schema NC replication cycle before replicating any other NC. Used to resolve ties when the schema FSMO is seized and a change is made on more than one DC.,f9fb64ae-93b4-11d2-9945-0000f87a57d4
@@ -1363,7 +1363,7 @@ Attributes,Lists attributes and their guids,Serial-Number,Part of X.500 specific
 Attributes,Lists attributes and their guids,Server-Name,The name of a server.,09dcb7a0-165f-11d0-a064-00aa006c33ed
 Attributes,Lists attributes and their guids,Server-Reference,Found in a site computer object. Contains the distinguished name of the domain controller in the domain naming context.,26d9736d-6070-11d1-a9c6-0000f80367c1
 Attributes,Lists attributes and their guids,Server-Reference-BL,Found in the domain naming context. The distinguished name of a computer under the sites folder.,26d9736e-6070-11d1-a9c6-0000f80367c1
-Attributes,Lists attributes and their guids,Server-Role,For compatibility with pre-WindowsÂ 2000 Server servers. A computer running WindowsÂ NT Server can be a standalone server; a primary domain controller (PDC); or a backup domain controller (BDC).,bf967a33-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Server-Role,For compatibility with pre-WindowsåÊ2000 Server servers. A computer running WindowsåÊNT Server can be a standalone server; a primary domain controller (PDC); or a backup domain controller (BDC).,bf967a33-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Server-State,Indicates whether the server is enabled or disabled. A value of 1 indicates that the server is enabled. A value of 2 indicates that the server is disabled. All other values are invalid.,bf967a34-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Service-Binding-Information,Service-specific binding information in string format.,b7b1311c-b82e-11d0-afee-0000f80367c1
 Attributes,Lists attributes and their guids,Service-Class-ID,The GUID for the Service class.,bf967a35-0de6-11d0-a285-00aa003049e2
@@ -1383,7 +1383,7 @@ Attributes,Lists attributes and their guids,shadowMin,Contains the minimum numbe
 Attributes,Lists attributes and their guids,shadowWarning,Contains the number of days before the password expires to warn the user.,7ae89c9c-2976-4a46-bb8a-340f88560117
 Attributes,Lists attributes and their guids,Shell-Context-Menu,The order number and GUID of the context menu for this object.,553fd039-f32e-11d0-b0bc-00c04fd8dca6
 Attributes,Lists attributes and their guids,Shell-Property-Pages,The order number and GUID of property pages for managing Active Directory objects. These property pages can be accessed from the Windows shell. For more information see the document; Extending the User Interface for Directory Objects.,52458039-ca6a-11d0-afff-0000f80367c1
-Attributes,Lists attributes and their guids,Short-Server-Name,Pre-WindowsÂ 2000 compatible server name for print servers.,45b01501-c419-11d1-bbc9-0080c76670c0
+Attributes,Lists attributes and their guids,Short-Server-Name,Pre-WindowsåÊ2000 compatible server name for print servers.,45b01501-c419-11d1-bbc9-0080c76670c0
 Attributes,Lists attributes and their guids,Show-In-Address-Book,This attribute is used to indicate in which MAPI address books an object will appear. It is usually maintained by the Exchange Recipient Update Service.,3e74f60e-3e73-11d1-a9c0-0000f80367c1
 Attributes,Lists attributes and their guids,Show-In-Advanced-View-Only,TRUE if this attribute is to be visible in the Advanced mode of the UI.,bf967984-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,SID-History,Contains previous SIDs used for the object if the object was moved from another domain. Whenever an object is moved from one domain to another; a new SID is created and that new SID becomes the objectSID. The previous SID is added to the sIDHistory property.,17eb4278-d167-11d0-b002-0000f80367c1
@@ -1424,7 +1424,7 @@ Attributes,Lists attributes and their guids,Telex-Number,A list of alternate tel
 Attributes,Lists attributes and their guids,Telex-Primary,The primary telex number.,0296c121-40da-11d1-a9c0-0000f80367c1
 Attributes,Lists attributes and their guids,Template-Roots,This attribute is used on the Exchange config container to indicate where the template containers are stored. This information is used by the Active Directory MAPI provider.,ed9de9a0-7041-11d2-9905-0000f87a57d4
 Attributes,Lists attributes and their guids,Template-Roots2,This attribute is used on the Exchange config container to indicate where the template containers are stored. This information is used by the Active Directory MAPI provider,b1cba91a-0682-4362-a659-153e201ef069
-Attributes,Lists attributes and their guids,Terminal-Server,Opaque data used by the WindowsÂ NT terminal server.,6db69a1c-9422-11d1-aebd-0000f80367c1
+Attributes,Lists attributes and their guids,Terminal-Server,Opaque data used by the WindowsåÊNT terminal server.,6db69a1c-9422-11d1-aebd-0000f80367c1
 Attributes,Lists attributes and their guids,Text-Country,The country/region in which the user is located.,f0f8ffa7-1191-11d0-a060-00aa006c33ed
 Attributes,Lists attributes and their guids,Text-Encoded-OR-Address,This attribute is used to support X.400 addresses in a text format.,a8df7489-c5ea-11d1-bbcb-0080c76670c0
 Attributes,Lists attributes and their guids,Time-Refresh,This attribute has the interval during which a resource record that is contained in an Active Directory integrated zone should be refreshed for the DNS server. The default interval is 7 days.,ddac0cf1-af8f-11d0-afeb-00c04fd930c9
@@ -1446,12 +1446,12 @@ Attributes,Lists attributes and their guids,Trust-Direction,The direction of a t
 Attributes,Lists attributes and their guids,Trust-Parent,The parent in KERBEROS trust hierarchy.,b000ea7a-a086-11d0-afdd-00c04fd930c9
 Attributes,Lists attributes and their guids,Trust-Partner,The name of the domain with which a trust exists.,bf967a5d-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Trust-Posix-Offset,The Portable Operating System Interface (POSIX) offset for the trusted domain.,bf967a5e-0de6-11d0-a285-00aa003049e2
-Attributes,Lists attributes and their guids,Trust-Type,The type of trust; for example; WindowsÂ NT or MIT.,bf967a60-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Trust-Type,The type of trust; for example; WindowsåÊNT or MIT.,bf967a60-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,Password,Indicates if the security account manager will enforce data sizes to make Active Directory compatible with the LanManager User Account System (UAS). If this value is 0; no limits are enforced. If this value is 1; the following limits are enforced.,Computer Name
 Attributes,Lists attributes and their guids,uid,A user ID.,0bb0fca0-1e89-429f-901a-1413894d9f59
 Attributes,Lists attributes and their guids,uidNumber,Contains an integer that uniquely identifies a user in an administrative domain.,850fcc8f-9c6b-47e1-b671-7c654be4d5b3
 Attributes,Lists attributes and their guids,UNC-Name,The universal naming convention name for shared volumes and printers.,bf967a64-0de6-11d0-a285-00aa003049e2
-Attributes,Lists attributes and their guids,Unicode-Pwd,The password of the user in WindowsÂ NT one-way format (OWF). WindowsÂ 2000 uses the WindowsÂ NT OWF. This property is used only by the operating system. Note that you cannot derive the clear password back from the OWF form of the password.,bf9679e1-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,Unicode-Pwd,The password of the user in WindowsåÊNT one-way format (OWF). WindowsåÊ2000 uses the WindowsåÊNT OWF. This property is used only by the operating system. Note that you cannot derive the clear password back from the OWF form of the password.,bf9679e1-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,uniqueIdentifier,"The uniqueIdentifier attribute type specifies a ""unique identifier"" for an object represented in the Directory.",ba0184c7-38c5-4bed-a526-75421470580c
 Attributes,Lists attributes and their guids,uniqueMember,The distinguished name for the member of a group. Used by groupOfUniqueNames.,8f888726-f80a-44d7-b1ee-cb9df21392c8
 Attributes,Lists attributes and their guids,unixHomeDirectory,Contains the absolute path to the home directory.,bc2dba12-000f-464d-bf1d-0808465d8843
@@ -1471,7 +1471,7 @@ Attributes,Lists attributes and their guids,User-Principal-Name,This attribute c
 Attributes,Lists attributes and their guids,User-Shared-Folder,Specifies a UNC path to the user's shared documents folder. The path must be a network UNC path of the form \\Server\Share\Directory. This value can be a null string.,9a9a021f-4a5b-11d1-a9c3-0000f80367c1
 Attributes,Lists attributes and their guids,User-Shared-Folder-Other,Specifies a UNC path to the user's additional shared documents folder. The path must be a network UNC path of the form \\Server\Share\Directory. This value can be a null string.,9a9a0220-4a5b-11d1-a9c3-0000f80367c1
 Attributes,Lists attributes and their guids,User-SMIME-Certificate,Certificate distribution object or tagged certificates.,e16a9db2-403c-11d1-a9c0-0000f80367c1
-Attributes,Lists attributes and their guids,User-Workstations,Contains the NetBIOS or DNS names of the computers running WindowsÂ NT Workstation or WindowsÂ 2000 Professional from which the user can log on. Each NetBIOS name is separated by a comma. Multiple names should be separated by commas.,bf9679d7-0de6-11d0-a285-00aa003049e2
+Attributes,Lists attributes and their guids,User-Workstations,Contains the NetBIOS or DNS names of the computers running WindowsåÊNT Workstation or WindowsåÊ2000 Professional from which the user can log on. Each NetBIOS name is separated by a comma. Multiple names should be separated by commas.,bf9679d7-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,USN-Changed,The update sequence number (USN) assigned by the local directory for the latest change; including creation. See also ; USN-Created.,bf967a6f-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,USN-Created,The update sequence number (USN) assigned at object creation. See also; USN-Changed.,bf967a70-0de6-11d0-a285-00aa003049e2
 Attributes,Lists attributes and their guids,USN-DSA-Last-Obj-Removed,Contains the update sequence number (USN) for the last system object that was removed from a server.,bf967a71-0de6-11d0-a285-00aa003049e2
@@ -1516,3 +1516,29 @@ Validated Writes,List Validated Rights,Validated-DNS-Host-Name,Validated write p
 Validated Writes,List Validated Rights,Validated-MS-DS-Additional-DNS-Host-Name,Validated write to MS DS Additional DNS Host Name.,80863791-dbe9-4eb8-837e-7f0ab55d9ac7
 Validated Writes,List Validated Rights,Validated-MS-DS-Behavior-Version,Validated write to MS DS behavior version.,d31a8757-2447-4545-8081-3bb610cacbf2
 Validated Writes,List Validated Rights,Validated-SPN,Validated write permission to enable setting of the SPN attribute which is compliant to the DNS host name of the computer.,f3a64788-5306-11d1-a9c5-0000f80367c1
+Uncategorised,Uncategorised,userCertificate,userCertificate,bf967a7f-0de6-11d0-a285-00aa003049e2
+Uncategorised,Uncategorised,homeDirectory,homeDirectory,5f202010-79a5-11d0-9020-00c04fc2d4cf
+Uncategorised,Uncategorised,description,description,bf967950-0de6-11d0-a285-00aa003049e2
+Uncategorised,Uncategorised,sAMAccountName,sAMAccountName,3e0abfd0-126a-11d0-a060-00aa006c33ed
+Uncategorised,Uncategorised,msDS-AdditionalDnsHostName,msDS-AdditionalDnsHostName,72e39547-7b18-11d1-adef-00c04fd8d5cd
+Uncategorised,Uncategorised,servicePrincipalName,servicePrincipalName,f3a64788-5306-11d1-a9c5-0000f80367c1
+Uncategorised,Uncategorised,pwdLastSet,pwdLastSet,4c164200-20c0-11d0-a768-00aa006e0529
+Uncategorised,Uncategorised,displayName,displayName,bf967953-0de6-11d0-a285-00aa003049e2
+Uncategorised,Uncategorised,tokenGroupsGlobalAndUniversal,tokenGroupsGlobalAndUniversal,46a9b11d-60ae-405a-b7e8-ff8a58d456d2
+Uncategorised,Uncategorised,printQueue,printQueue,bf967aa8-0de6-11d0-a285-00aa003049e2
+Uncategorised,Uncategorised,ab721a53-1e2f-11d0-9819-00aa0040529b,ab721a53-1e2f-11d0-9819-00aa0040529b,ab721a53-1e2f-11d0-9819-00aa0040529b
+Uncategorised,Uncategorised,computer,computer,bf967a86-0de6-11d0-a285-00aa003049e2
+Uncategorised,Uncategorised,group,group,bf967a9c-0de6-11d0-a285-00aa003049e2
+Uncategorised,Uncategorised,organizationalUnit,organizationalUnit,bf967aa5-0de6-11d0-a285-00aa003049e2
+Uncategorised,Uncategorised,user,user,bf967aba-0de6-11d0-a285-00aa003049e2
+Uncategorised,Uncategorised,inetOrgPerson,inetOrgPerson,4828cc14-1437-45bc-9b07-ad6f015e5f28
+Uncategorised,Uncategorised,msTSExpireDate,msTSExpireDate,5805bc62-bdc9-4428-a5e2-856a0f4c185e
+Uncategorised,Uncategorised,terminalServer,terminalServer,6db69a1c-9422-11d1-aebd-0000f80367c1
+Uncategorised,Uncategorised,memberOf,memberOf,bc0ac240-79a9-11d0-9020-00c04fc2d4cf
+Uncategorised,Uncategorised,tokenGroups,tokenGroups,037088f8-0ae1-11d2-b422-00a0c968f939
+Uncategorised,Uncategorised,wWWHomePage,wWWHomePage,e45795b3-9455-11d1-aebd-0000f80367c1
+Uncategorised,Uncategorised,registeredAddress,registeredAddress,77b5b886-944a-11d1-aebd-0000f80367c1
+Uncategorised,Uncategorised,msDS-PhoneticFirstName,msDS-PhoneticFirstName,e48d0154-bcf8-11d1-8702-00c04fb96050
+Uncategorised,Uncategorised,sAMAccountName,sAMAccountName,59ba2f42-79a2-11d0-9020-00c04fc2d3cf
+Uncategorised,Uncategorised,msPKI-CredentialRoamingTokens,msPKI-CredentialRoamingTokens,91e647de-d96f-4b70-9557-d63ff4f3ccd8
+empty,empty,empty,empty,empty
